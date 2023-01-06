@@ -10,7 +10,3 @@ int main(int argc, char *argv[] __attribute__((unused)))
 	printf("%d\n", argc - 1);
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
